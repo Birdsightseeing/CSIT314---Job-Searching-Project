@@ -1,0 +1,99 @@
+[
+  {
+    "id": "emp1",
+    "email": "john@example.com",
+    "password": "pass123",
+    "role": "employee",
+    "hasMembership": true,
+    "profile": {
+      "name": "John Doe",
+      "title": "Full Stack Developer",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Python",
+        "AWS"
+      ],
+      "workExperience": "5 years in Full Stack Development",
+      "preferredWorkMode": [
+        "Remote",
+        "Hybrid"
+      ],
+      "phone": "555-0101",
+      "location": "San Francisco, CA",
+      "bio": "Experienced developer with 5 years in full-stack development"
+    }
+  },
+  {
+    "id": "emp2",
+    "email": "jane@example.com",
+    "password": "pass123",
+    "role": "employee",
+    "hasMembership": false,
+    "profile": {
+      "name": "Jane Smith",
+      "title": "UX Designer",
+      "keywords": [
+        "UI Design",
+        "Figma",
+        "User Research",
+        "Prototyping"
+      ],
+      "workExperience": "3 years in UX/UI Design",
+      "preferredWorkMode": [
+        "Remote"
+      ],
+      "phone": "555-0102",
+      "location": "New York, NY",
+      "bio": "Creative designer focused on user-centered solutions"
+    }
+  },
+  {
+    "id": "org1",
+    "email": "tech@company.com",
+    "password": "pass123",
+    "role": "employer",
+    "hasMembership": true,
+    "company": "General Tech Corp",
+    "profile": {
+      "phone": "555-1000",
+      "location": "San Francisco, CA",
+      "description": "Very big tech company, like evry big"
+    }
+  },
+  {
+    "id": "org2",
+    "email": "bread@company.com",
+    "password": "pass123",
+    "role": "employer",
+    "hasMembership": false,
+    "company": "Dough Company",
+    "profile": {
+      "phone": "444-85347",
+      "location": "Wollongong, NSW",
+      "description": "We make bread yo"
+    }
+  },
+  {
+    "id": "f6834a8e-9fc6-4c19-bff0-6f5e77c40229",
+    "email": "mike@gmail.com",
+    "password": "pass123",
+    "role": "employee",
+    "hasMembership": false,
+    "profile": {
+      "name": "Mike",
+      "title": "Handyman",
+      "keywords": [
+        "Allrounder",
+        "Food&Beverage"
+      ],
+      "workExperience": "2 years as handyman and general assistant",
+      "preferredWorkMode": [
+        "In-person"
+      ],
+      "phone": "0987654321",
+      "location": "Kei",
+      "bio": ""
+    }
+  }
+]
