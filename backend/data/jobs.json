@@ -1,0 +1,156 @@
+[
+  {
+    "id": "job1",
+    "employerId": "org1",
+    "title": "Senior React Developer",
+    "description": "Looking for an experienced React developer to join our team",
+    "keywords": ["React", "Node.js", "JavaScript"],
+    "salary": "$120k - $160k",
+    "location": "San Francisco, CA",
+    "workMode": "full-time",
+    "postedDate": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "job2",
+    "employerId": "org1",
+    "title": "UX/UI Designer",
+    "description": "Design beautiful and intuitive interfaces",
+    "keywords": ["UI Design", "Figma", "User Research"],
+    "salary": "$90k - $130k",
+    "location": "Remote",
+    "workMode": "full-time",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job3",
+    "employerId": "org1",
+    "title": "Software Engineer",
+    "description": "Flexible contributer to the project",
+    "keywords": ["Backend", "Frontend", "Software"],
+    "salary": "$80k - $130k",
+    "location": "San Francisco, CA",
+    "workMode": "full-time",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job4",
+    "employerId": "org1",
+    "title": "Security Officer",
+    "description": "Security agent and warm reception",
+    "keywords": ["Security", "Reception", "Risk"],
+    "salary": "$90k - $120k",
+    "location": "San Francisco, CA",
+    "workMode": "full-time",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job5",
+    "employerId": "org1",
+    "title": "Chef",
+    "description": "Head chef for infrastructure's canteen",
+    "keywords": ["Food&Beverage", "Chef", "Manager"],
+    "salary": "$70k - $160k",
+    "location": "San Francisco, CA",
+    "workMode": "full-time",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job6",
+    "employerId": "org1",
+    "title": "Cooks",
+    "description": "Kitchen Hand for the infrastructure's canteen",
+    "keywords": ["Food&Beverage", "Assistant", "Allrounder"],
+    "salary": "$6k - $12k",
+    "location": "San Francisco, CA",
+    "workMode": "part-time",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job7",
+    "employerId": "org1",
+    "title": "Cooks",
+    "description": "Kitchen Hand for the infrastructure's canteen",
+    "keywords": ["Food&Beverage", "Assistant", "Allrounder"],
+    "salary": "$6k - $12k",
+    "location": "San Francisco, CA",
+    "workMode": "casual",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job8",
+    "employerId": "org1",
+    "title": "Cooks",
+    "description": "Kitchen Hand for the infrastructure's canteen",
+    "keywords": ["Food&Beverage", "Assistant", "Allrounder"],
+    "salary": "$6k - $12k",
+    "location": "San Francisco, CA",
+    "workMode": "part-time",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job9",
+    "employerId": "org1",
+    "title": "Software Engineer - Supervisor",
+    "description": "Project's lead",
+    "keywords": ["Manager", "Software", "Supervise"],
+    "salary": "$100k - $140k",
+    "location": "San Francisco, CA",
+    "workMode": "full-time",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job10",
+    "employerId": "org1",
+    "title": "Software Engineer",
+    "description": "Flexible contributer to the project",
+    "keywords": ["Backend", "Frontend", "Software"],
+    "salary": "$80k - $130k",
+    "location": "San Francisco, CA",
+    "workMode": "hybrid",
+    "postedDate": "2024-01-14T15:30:00Z"
+  },
+  {
+    "id": "job11",
+    "employerId": "org2",
+    "title": "Team Member",
+    "description": "You would make bread",
+    "keywords": ["Food&Beverage", "Assistant", "Allrounder"],
+    "salary": "$7k - $13k",
+    "location": "Wollongong, NSW",
+    "workMode": "full-time",
+    "postedDate": "2025-03-24T16:43:00Z"
+  },
+  {
+    "id": "job12",
+    "employerId": "org2",
+    "title": "Team Member",
+    "description": "You would make bread",
+    "keywords": ["Food&Beverage", "Assistant", "Allrounder"],
+    "salary": "$7k - $13k",
+    "location": "Wollongong, NSW",
+    "workMode": "part-time",
+    "postedDate": "2025-03-24T16:43:00Z"
+  },
+  {
+    "id": "job13",
+    "employerId": "org2",
+    "title": "Team Member- Supervisor",
+    "description": "You would make bread, and supervise",
+    "keywords": ["Food&Beverage", "Manager", "Supervise"],
+    "salary": "$8k - $15k",
+    "location": "Wollongong, NSW",
+    "workMode": "full-time",
+    "postedDate": "2025-03-24T16:43:00Z"
+  },
+  {
+    "id": "job14",
+    "employerId": "org2",
+    "title": "Branch Manager",
+    "description": "You would manage, and sometimes make bread",
+    "keywords": ["Food&Beverage", "Manager"],
+    "salary": "$9k - $15k",
+    "location": "Wollongong, NSW",
+    "workMode": "hybrid",
+    "postedDate": "2025-03-24T16:43:00Z"
+  }
+]
