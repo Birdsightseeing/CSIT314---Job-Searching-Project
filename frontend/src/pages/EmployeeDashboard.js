@@ -171,7 +171,7 @@ export default function EmployeeDashboard({ user, onLogout, apiUrl }) {
     <div style={{ minHeight: '100vh', background: '#f0f0f0' }}>
       <div style={{ background: '#1a252f', color: '#e8eef7', padding: '20px 30px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div>
-          <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '700' }}>🍓 Beetroot</h1>
+          <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '700' }}>Beetroot</h1>
           <p style={{ margin: '4px 0 0 0', fontSize: '13px', opacity: 0.8 }}>Welcome, {user.profile.name}</p>
         </div>
         <div style={{ display: 'flex', gap: '15px', alignItems: 'center' }}>
