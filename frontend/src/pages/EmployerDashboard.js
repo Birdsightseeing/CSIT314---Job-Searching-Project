@@ -96,7 +96,7 @@ export default function EmployerDashboard({ user, onLogout, apiUrl }) {
       {/* Header */}
       <div style={{ background: '#1a252f', color: '#e8eef7', padding: '20px 30px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div>
-          <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '700' }}>JobMatch Employer</h1>
+          <h1 style={{ margin: 0, fontSize: '24px', fontWeight: '700' }}>Beetroot Employer</h1>
           <p style={{ margin: '4px 0 0 0', fontSize: '13px', opacity: 0.9 }}>{user.company}</p>
           <button 
             onClick={toggleMembership}
